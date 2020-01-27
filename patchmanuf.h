@@ -1,0 +1,1 @@
+uint32_t patchManuf(uint8_t* ptr, uint32_t csize);
